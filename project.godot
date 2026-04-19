@@ -13,7 +13,6 @@ config_version=5
 config/name="firstGame"
 run/main_scene="uid://cyraxm88uqh8s"
 config/features=PackedStringArray("4.6", "Forward Plus")
-config/icon="res://icon.svg"
 
 [physics]
 
